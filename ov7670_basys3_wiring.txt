@@ -1,0 +1,20 @@
+OV7670 is connected to Basys 3 using the i/o ports of Basys 3
+Basys 3 port --> OV7670 port
+M18,JC2      --> XCLK
+A15,JB7      --> D7
+A14,JB1,     --> D6
+C16,JB10     --> D5
+B16,JB4      --> D4
+C15,JB9      --> D3
+B15,JB3      --> D2
+A17,JB8      --> D1
+A16,JB2      --> D0
+M19,JC8      --> HREF
+N17,JC3      --> PCLK
+R18,JC10     --> SIOC
+P18,JC4      --> SIOD
+P17,JC9      --> VSYNC
+PWR,JC6      --> 3v3
+PWR,JC12     --> RESET
+GND,JC5      --> GND
+GND,JC11     --> PWDN
